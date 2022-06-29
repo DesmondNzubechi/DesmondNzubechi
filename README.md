@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DesmondNzubechi
-- 👀 I’m interested in Coding
+- 👀 I’m interested in ReactJs
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me : 07084183611
